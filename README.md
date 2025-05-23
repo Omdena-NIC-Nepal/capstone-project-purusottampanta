@@ -58,6 +58,7 @@ streamlit run app.py
 ```
 
 ### Project Structure
+```bash
 The project have follwoing folder structures
 ├── app.py
 ├── requirements.txt
@@ -81,12 +82,13 @@ The project have follwoing folder structures
 ├── utils/
 │   └── generate_sample_data.py
 
+```
 ### 📜 License
 This project is open-source. Feel free to fork and modify as needed. Please include attribution to the author.
 
 ### 🙌 Acknowledgements
-    - **Copernicus Climate Data Store**
-    - **Open Data Nepal**
-    - **Streamlit**
-    - **Facebook Prophet**
-    - **spaCy**
+- **Copernicus Climate Data Store**
+- **Open Data Nepal**
+- **Streamlit**
+- **Facebook Prophet**
+- **spaCy**
