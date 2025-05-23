@@ -17,7 +17,7 @@ matplotlib
 seaborn
 xarray
 prophet
-sklearn
 langdetect
 nepali_roman
 googletrans
+scikit-learn

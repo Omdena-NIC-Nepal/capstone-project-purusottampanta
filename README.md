@@ -1,5 +1,7 @@
 # 🌏 Climate Change Impact Assessment and Prediction System for Nepal
 
+## Access the live deployed App using link https://capstone-project-purusottampanta.streamlit.app/
+
 This Streamlit-based application evaluates the impact of climate change on agriculture and flood risks in Nepal using real datasets from the Copernicus Climate Data Store and Open Data Nepal. It combines data analysis, machine learning, and GIS tools to present interactive visualizations and predictions.
 
 ## 🔍 Features
@@ -39,7 +41,7 @@ Kathmandu, Nepal
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/climate-change-nepal.git
+git clone https://github.com/Omdena-NIC-Nepal/capstone-project-purusottampanta.git
 cd climate-change-nepal
 ```
 
@@ -58,8 +60,9 @@ streamlit run app.py
 ```
 
 ### Project Structure
-```bash
+
 The project have follwoing folder structures
+```bash
 ├── app.py
 ├── requirements.txt
 ├── data/
