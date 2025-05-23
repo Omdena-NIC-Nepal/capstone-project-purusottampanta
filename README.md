@@ -90,6 +90,8 @@ The project have follwoing folder structures
 This project is open-source. Feel free to fork and modify as needed. Please include attribution to the author.
 
 ### 🙌 Acknowledgements
+- **Desmond sir and Joseph sir**
+- **Omdena and NIC Nepal Family**
 - **Copernicus Climate Data Store**
 - **Open Data Nepal**
 - **Streamlit**
