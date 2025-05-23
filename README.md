@@ -42,8 +42,17 @@ Kathmandu, Nepal
 
 ```bash
 git clone https://github.com/Omdena-NIC-Nepal/capstone-project-purusottampanta.git
-cd climate-change-nepal
+cd capstone-project-purusottampanta
 ```
+
+### Create python virtual environment
+Create python virtual environment for the project and activate the environment for project usages
+
+```bash
+python -m venv capenv
+capenv\Scripts\activate
+```
+
 
 ### ✅ Install Dependencies
 Ensure you have Python 3.8+ installed. Then install all required libraries using pip:
